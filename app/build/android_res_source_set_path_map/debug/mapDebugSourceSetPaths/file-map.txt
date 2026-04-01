@@ -1,0 +1,7 @@
+com.example.procrastinationtimer.app-pngs-0 /Users/Guest/AndroidStudioProjects/ProcrastinationTimer2/app/build/generated/res/pngs/debug
+com.example.procrastinationtimer.app-updated_navigation_xml-1 /Users/Guest/AndroidStudioProjects/ProcrastinationTimer2/app/build/generated/updated_navigation_xml/debug
+com.example.procrastinationtimer.app-packageDebugResources-2 /Users/Guest/AndroidStudioProjects/ProcrastinationTimer2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.procrastinationtimer.app-packageDebugResources-3 /Users/Guest/AndroidStudioProjects/ProcrastinationTimer2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.procrastinationtimer.app-debug-4 /Users/Guest/AndroidStudioProjects/ProcrastinationTimer2/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.procrastinationtimer.app-debug-5 /Users/Guest/AndroidStudioProjects/ProcrastinationTimer2/app/src/debug/res
+com.example.procrastinationtimer.app-main-6 /Users/Guest/AndroidStudioProjects/ProcrastinationTimer2/app/src/main/res
